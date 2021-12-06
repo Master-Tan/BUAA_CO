@@ -1,0 +1,1 @@
+Accepted:  bgezal2.asm
