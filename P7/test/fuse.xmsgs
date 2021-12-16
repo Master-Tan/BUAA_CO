@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"E:/ISE/Project_7/Control_Unit.v" Line 25: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">Control_Unit</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"E:/ISE/Project_7/BE.v" Line 22: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">BE</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"E:/ISE/Project_7/CP0.v" Line 24: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">CP0</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"E:/ISE/Project_7/DataEXT.v" Line 22: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">DataEXT</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"E:/ISE/Project_7/D_CMP.v" Line 23: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">D_CMP</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"E:/ISE/Project_7/D_EXT.v" Line 22: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">D_EXT</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"E:/ISE/Project_7/D_GRF.v" Line 22: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">D_GRF</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"E:/ISE/Project_7/D_NPC.v" Line 23: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">D_NPC</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"E:/ISE/Project_7/D_REG.v" Line 22: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">D_REG</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"E:/ISE/Project_7/E_ALU.v" Line 22: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">E_ALU</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"E:/ISE/Project_7/E_Mult_Div.v" Line 32: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">E_Mult_Div</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"E:/ISE/Project_7/E_REG.v" Line 22: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">E_REG</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"E:/ISE/Project_7/Forward_MUX.v" Line 22: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">Forward_MUX</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"E:/ISE/Project_7/F_PC.v" Line 22: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">F_PC</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"E:/ISE/Project_7/Hazard_Unit.v" Line 33: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">Hazard_Unit</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"E:/ISE/Project_7/F_PC.v" Line 22: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">F_PC</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"E:/ISE/Project_7/D_GRF.v" Line 22: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">D_GRF</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"E:/ISE/Project_7/Control_Unit.v" Line 25: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">Control_Unit</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"E:/ISE/Project_7/MUX.v" Line 23: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">MUX2_1</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"E:/ISE/Project_7/MUX.v" Line 33: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">MUX2_5</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"E:/ISE/Project_7/MUX.v" Line 43: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">MUX2_32</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"E:/ISE/Project_7/MUX.v" Line 53: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">MUX4_5</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"E:/ISE/Project_7/MUX.v" Line 69: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">MUX4_32</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"E:/ISE/Project_7/D_EXT.v" Line 22: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">D_EXT</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"E:/ISE/Project_7/E_ALU.v" Line 22: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">E_ALU</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"E:/ISE/Project_7/Forward_MUX.v" Line 22: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">Forward_MUX</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"E:/ISE/Project_7/D_REG.v" Line 22: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">D_REG</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"E:/ISE/Project_7/E_REG.v" Line 22: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">E_REG</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"E:/ISE/Project_7/M_REG.v" Line 21: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">M_REG</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"E:/ISE/Project_7/W_REG.v" Line 21: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">W_REG</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"E:/ISE/Project_7/D_CMP.v" Line 23: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">D_CMP</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"E:/ISE/Project_7/D_NPC.v" Line 23: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">D_NPC</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"E:/ISE/Project_7/Hazard_Unit.v" Line 33: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">Hazard_Unit</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"E:/ISE/Project_7/BE.v" Line 22: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">BE</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"E:/ISE/Project_7/DataEXT.v" Line 22: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">DataEXT</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"E:/ISE/Project_7/E_Mult_Div.v" Line 32: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">E_Mult_Div</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"E:/ISE/Project_7/CP0.v" Line 24: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">CP0</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"E:/ISE/Project_7/CPU.v" Line 52: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">CPU</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"E:/ISE/Project_7/Bridge.v" Line 25: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">Bridge</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"E:/ISE/Project_7/F_PC.v" Line 22: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">F_PC</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"E:/ISE/Project_7/D_GRF.v" Line 22: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">D_GRF</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"E:/ISE/Project_7/Control_Unit.v" Line 25: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">Control_Unit</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"E:/ISE/Project_7/MUX.v" Line 23: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">MUX2_1</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"E:/ISE/Project_7/MUX.v" Line 33: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">MUX2_5</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"E:/ISE/Project_7/MUX.v" Line 43: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">MUX2_32</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"E:/ISE/Project_7/MUX.v" Line 53: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">MUX4_5</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"E:/ISE/Project_7/MUX.v" Line 69: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">MUX4_32</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"E:/ISE/Project_7/D_EXT.v" Line 22: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">D_EXT</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"E:/ISE/Project_7/E_ALU.v" Line 22: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">E_ALU</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"E:/ISE/Project_7/Forward_MUX.v" Line 22: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">Forward_MUX</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"E:/ISE/Project_7/D_REG.v" Line 22: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">D_REG</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"E:/ISE/Project_7/E_REG.v" Line 22: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">E_REG</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"E:/ISE/Project_7/M_REG.v" Line 21: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">M_REG</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"E:/ISE/Project_7/W_REG.v" Line 21: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">W_REG</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"E:/ISE/Project_7/D_CMP.v" Line 23: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">D_CMP</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"E:/ISE/Project_7/D_NPC.v" Line 23: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">D_NPC</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"E:/ISE/Project_7/Hazard_Unit.v" Line 33: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">Hazard_Unit</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"E:/ISE/Project_7/BE.v" Line 22: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">BE</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"E:/ISE/Project_7/DataEXT.v" Line 22: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">DataEXT</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"E:/ISE/Project_7/E_Mult_Div.v" Line 32: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">E_Mult_Div</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"E:/ISE/Project_7/CP0.v" Line 24: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">CP0</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"E:/ISE/Project_7/CPU.v" Line 52: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">CPU</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"E:/ISE/Project_7/Bridge.v" Line 25: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">Bridge</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"E:/ISE/Project_7/Timer0.v" Line 29: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">Timer0</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"E:/ISE/Project_7/Timer1.v" Line 29: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">Timer1</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"E:/ISE/Project_7/mips.v" Line 30: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">mips</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="568" delta="unknown" >"E:/ISE/Project_7/mips_tb.v" Line 126: Constant value is truncated to fit in &lt;<arg fmt="%d" index="1">32</arg>&gt; bits.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"E:/ISE/Project_7/MUX.v" Line 23: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">MUX2_1</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"E:/ISE/Project_7/MUX.v" Line 33: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">MUX2_5</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"E:/ISE/Project_7/MUX.v" Line 43: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">MUX2_32</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"E:/ISE/Project_7/MUX.v" Line 53: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">MUX4_5</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"E:/ISE/Project_7/MUX.v" Line 69: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">MUX4_32</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"E:/ISE/Project_7/M_REG.v" Line 21: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">M_REG</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"E:/ISE/Project_7/Timer0.v" Line 29: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">Timer0</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"E:/ISE/Project_7/Timer1.v" Line 29: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">Timer1</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="687" delta="unknown" >"E:/ISE/Project_7/W_REG.v" Line 21: Illegal redeclaration of module &lt;<arg fmt="%s" index="1">W_REG</arg>&gt;.
+</msg>
+
+<msg type="error" file="Simulator" num="702" delta="unknown" >Can not find design unit <arg fmt="%s" index="1">mips_txt</arg> in library <arg fmt="%s" index="2">work</arg> located at <arg fmt="%s" index="3">isim/work</arg> 
+</msg>
+
+</messages>
+

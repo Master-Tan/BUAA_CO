@@ -1,0 +1,107 @@
+Running: d:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -nodebug -intstyle silent -prj E:/ISE/Project_7/test.prj -o testmips.exe mips_txt 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 16
+Turning on mult-threading, number of parallel sub-compilation jobs: 32 
+Determining compilation order of HDL files
+Analyzing Verilog file "E:/ISE/Project_7/BE.v" into library work
+Analyzing Verilog file "E:/ISE/Project_7/Bridge.v" into library work
+Analyzing Verilog file "E:/ISE/Project_7/const.v" into library work
+Analyzing Verilog file "E:/ISE/Project_7/Control_Unit.v" into library work
+Analyzing Verilog file "E:/ISE/Project_7/CP0.v" into library work
+Analyzing Verilog file "E:/ISE/Project_7/CPU.v" into library work
+WARNING:HDLCompiler:687 - "E:/ISE/Project_7/Control_Unit.v" Line 25: Illegal redeclaration of module <Control_Unit>.
+WARNING:HDLCompiler:687 - "E:/ISE/Project_7/BE.v" Line 22: Illegal redeclaration of module <BE>.
+WARNING:HDLCompiler:687 - "E:/ISE/Project_7/CP0.v" Line 24: Illegal redeclaration of module <CP0>.
+Analyzing Verilog file "E:/ISE/Project_7/DataEXT.v" into library work
+WARNING:HDLCompiler:687 - "E:/ISE/Project_7/DataEXT.v" Line 22: Illegal redeclaration of module <DataEXT>.
+Analyzing Verilog file "E:/ISE/Project_7/D_CMP.v" into library work
+WARNING:HDLCompiler:687 - "E:/ISE/Project_7/D_CMP.v" Line 23: Illegal redeclaration of module <D_CMP>.
+Analyzing Verilog file "E:/ISE/Project_7/D_EXT.v" into library work
+WARNING:HDLCompiler:687 - "E:/ISE/Project_7/D_EXT.v" Line 22: Illegal redeclaration of module <D_EXT>.
+Analyzing Verilog file "E:/ISE/Project_7/D_GRF.v" into library work
+WARNING:HDLCompiler:687 - "E:/ISE/Project_7/D_GRF.v" Line 22: Illegal redeclaration of module <D_GRF>.
+Analyzing Verilog file "E:/ISE/Project_7/D_NPC.v" into library work
+WARNING:HDLCompiler:687 - "E:/ISE/Project_7/D_NPC.v" Line 23: Illegal redeclaration of module <D_NPC>.
+Analyzing Verilog file "E:/ISE/Project_7/D_REG.v" into library work
+WARNING:HDLCompiler:687 - "E:/ISE/Project_7/D_REG.v" Line 22: Illegal redeclaration of module <D_REG>.
+Analyzing Verilog file "E:/ISE/Project_7/E_ALU.v" into library work
+WARNING:HDLCompiler:687 - "E:/ISE/Project_7/E_ALU.v" Line 22: Illegal redeclaration of module <E_ALU>.
+Analyzing Verilog file "E:/ISE/Project_7/E_Mult_Div.v" into library work
+WARNING:HDLCompiler:687 - "E:/ISE/Project_7/E_Mult_Div.v" Line 32: Illegal redeclaration of module <E_Mult_Div>.
+Analyzing Verilog file "E:/ISE/Project_7/E_REG.v" into library work
+WARNING:HDLCompiler:687 - "E:/ISE/Project_7/E_REG.v" Line 22: Illegal redeclaration of module <E_REG>.
+Analyzing Verilog file "E:/ISE/Project_7/Forward_MUX.v" into library work
+WARNING:HDLCompiler:687 - "E:/ISE/Project_7/Forward_MUX.v" Line 22: Illegal redeclaration of module <Forward_MUX>.
+Analyzing Verilog file "E:/ISE/Project_7/F_PC.v" into library work
+WARNING:HDLCompiler:687 - "E:/ISE/Project_7/F_PC.v" Line 22: Illegal redeclaration of module <F_PC>.
+Analyzing Verilog file "E:/ISE/Project_7/Hazard_Unit.v" into library work
+WARNING:HDLCompiler:687 - "E:/ISE/Project_7/Hazard_Unit.v" Line 33: Illegal redeclaration of module <Hazard_Unit>.
+Analyzing Verilog file "E:/ISE/Project_7/mips.v" into library work
+WARNING:HDLCompiler:687 - "E:/ISE/Project_7/F_PC.v" Line 22: Illegal redeclaration of module <F_PC>.
+WARNING:HDLCompiler:687 - "E:/ISE/Project_7/D_GRF.v" Line 22: Illegal redeclaration of module <D_GRF>.
+WARNING:HDLCompiler:687 - "E:/ISE/Project_7/Control_Unit.v" Line 25: Illegal redeclaration of module <Control_Unit>.
+WARNING:HDLCompiler:687 - "E:/ISE/Project_7/MUX.v" Line 23: Illegal redeclaration of module <MUX2_1>.
+WARNING:HDLCompiler:687 - "E:/ISE/Project_7/MUX.v" Line 33: Illegal redeclaration of module <MUX2_5>.
+WARNING:HDLCompiler:687 - "E:/ISE/Project_7/MUX.v" Line 43: Illegal redeclaration of module <MUX2_32>.
+WARNING:HDLCompiler:687 - "E:/ISE/Project_7/MUX.v" Line 53: Illegal redeclaration of module <MUX4_5>.
+WARNING:HDLCompiler:687 - "E:/ISE/Project_7/MUX.v" Line 69: Illegal redeclaration of module <MUX4_32>.
+WARNING:HDLCompiler:687 - "E:/ISE/Project_7/D_EXT.v" Line 22: Illegal redeclaration of module <D_EXT>.
+WARNING:HDLCompiler:687 - "E:/ISE/Project_7/E_ALU.v" Line 22: Illegal redeclaration of module <E_ALU>.
+WARNING:HDLCompiler:687 - "E:/ISE/Project_7/Forward_MUX.v" Line 22: Illegal redeclaration of module <Forward_MUX>.
+WARNING:HDLCompiler:687 - "E:/ISE/Project_7/D_REG.v" Line 22: Illegal redeclaration of module <D_REG>.
+WARNING:HDLCompiler:687 - "E:/ISE/Project_7/E_REG.v" Line 22: Illegal redeclaration of module <E_REG>.
+WARNING:HDLCompiler:687 - "E:/ISE/Project_7/M_REG.v" Line 21: Illegal redeclaration of module <M_REG>.
+WARNING:HDLCompiler:687 - "E:/ISE/Project_7/W_REG.v" Line 21: Illegal redeclaration of module <W_REG>.
+WARNING:HDLCompiler:687 - "E:/ISE/Project_7/D_CMP.v" Line 23: Illegal redeclaration of module <D_CMP>.
+WARNING:HDLCompiler:687 - "E:/ISE/Project_7/D_NPC.v" Line 23: Illegal redeclaration of module <D_NPC>.
+WARNING:HDLCompiler:687 - "E:/ISE/Project_7/Hazard_Unit.v" Line 33: Illegal redeclaration of module <Hazard_Unit>.
+WARNING:HDLCompiler:687 - "E:/ISE/Project_7/BE.v" Line 22: Illegal redeclaration of module <BE>.
+WARNING:HDLCompiler:687 - "E:/ISE/Project_7/DataEXT.v" Line 22: Illegal redeclaration of module <DataEXT>.
+WARNING:HDLCompiler:687 - "E:/ISE/Project_7/E_Mult_Div.v" Line 32: Illegal redeclaration of module <E_Mult_Div>.
+WARNING:HDLCompiler:687 - "E:/ISE/Project_7/CP0.v" Line 24: Illegal redeclaration of module <CP0>.
+WARNING:HDLCompiler:687 - "E:/ISE/Project_7/CPU.v" Line 52: Illegal redeclaration of module <CPU>.
+WARNING:HDLCompiler:687 - "E:/ISE/Project_7/Bridge.v" Line 25: Illegal redeclaration of module <Bridge>.
+Analyzing Verilog file "E:/ISE/Project_7/mips_tb.v" into library work
+WARNING:HDLCompiler:687 - "E:/ISE/Project_7/F_PC.v" Line 22: Illegal redeclaration of module <F_PC>.
+WARNING:HDLCompiler:687 - "E:/ISE/Project_7/D_GRF.v" Line 22: Illegal redeclaration of module <D_GRF>.
+WARNING:HDLCompiler:687 - "E:/ISE/Project_7/Control_Unit.v" Line 25: Illegal redeclaration of module <Control_Unit>.
+WARNING:HDLCompiler:687 - "E:/ISE/Project_7/MUX.v" Line 23: Illegal redeclaration of module <MUX2_1>.
+WARNING:HDLCompiler:687 - "E:/ISE/Project_7/MUX.v" Line 33: Illegal redeclaration of module <MUX2_5>.
+WARNING:HDLCompiler:687 - "E:/ISE/Project_7/MUX.v" Line 43: Illegal redeclaration of module <MUX2_32>.
+WARNING:HDLCompiler:687 - "E:/ISE/Project_7/MUX.v" Line 53: Illegal redeclaration of module <MUX4_5>.
+WARNING:HDLCompiler:687 - "E:/ISE/Project_7/MUX.v" Line 69: Illegal redeclaration of module <MUX4_32>.
+WARNING:HDLCompiler:687 - "E:/ISE/Project_7/D_EXT.v" Line 22: Illegal redeclaration of module <D_EXT>.
+WARNING:HDLCompiler:687 - "E:/ISE/Project_7/E_ALU.v" Line 22: Illegal redeclaration of module <E_ALU>.
+WARNING:HDLCompiler:687 - "E:/ISE/Project_7/Forward_MUX.v" Line 22: Illegal redeclaration of module <Forward_MUX>.
+WARNING:HDLCompiler:687 - "E:/ISE/Project_7/D_REG.v" Line 22: Illegal redeclaration of module <D_REG>.
+WARNING:HDLCompiler:687 - "E:/ISE/Project_7/E_REG.v" Line 22: Illegal redeclaration of module <E_REG>.
+WARNING:HDLCompiler:687 - "E:/ISE/Project_7/M_REG.v" Line 21: Illegal redeclaration of module <M_REG>.
+WARNING:HDLCompiler:687 - "E:/ISE/Project_7/W_REG.v" Line 21: Illegal redeclaration of module <W_REG>.
+WARNING:HDLCompiler:687 - "E:/ISE/Project_7/D_CMP.v" Line 23: Illegal redeclaration of module <D_CMP>.
+WARNING:HDLCompiler:687 - "E:/ISE/Project_7/D_NPC.v" Line 23: Illegal redeclaration of module <D_NPC>.
+WARNING:HDLCompiler:687 - "E:/ISE/Project_7/Hazard_Unit.v" Line 33: Illegal redeclaration of module <Hazard_Unit>.
+WARNING:HDLCompiler:687 - "E:/ISE/Project_7/BE.v" Line 22: Illegal redeclaration of module <BE>.
+WARNING:HDLCompiler:687 - "E:/ISE/Project_7/DataEXT.v" Line 22: Illegal redeclaration of module <DataEXT>.
+WARNING:HDLCompiler:687 - "E:/ISE/Project_7/E_Mult_Div.v" Line 32: Illegal redeclaration of module <E_Mult_Div>.
+WARNING:HDLCompiler:687 - "E:/ISE/Project_7/CP0.v" Line 24: Illegal redeclaration of module <CP0>.
+WARNING:HDLCompiler:687 - "E:/ISE/Project_7/CPU.v" Line 52: Illegal redeclaration of module <CPU>.
+WARNING:HDLCompiler:687 - "E:/ISE/Project_7/Bridge.v" Line 25: Illegal redeclaration of module <Bridge>.
+WARNING:HDLCompiler:687 - "E:/ISE/Project_7/Timer0.v" Line 29: Illegal redeclaration of module <Timer0>.
+WARNING:HDLCompiler:687 - "E:/ISE/Project_7/Timer1.v" Line 29: Illegal redeclaration of module <Timer1>.
+WARNING:HDLCompiler:687 - "E:/ISE/Project_7/mips.v" Line 30: Illegal redeclaration of module <mips>.
+WARNING:HDLCompiler:568 - "E:/ISE/Project_7/mips_tb.v" Line 126: Constant value is truncated to fit in <32> bits.
+Analyzing Verilog file "E:/ISE/Project_7/MUX.v" into library work
+WARNING:HDLCompiler:687 - "E:/ISE/Project_7/MUX.v" Line 23: Illegal redeclaration of module <MUX2_1>.
+WARNING:HDLCompiler:687 - "E:/ISE/Project_7/MUX.v" Line 33: Illegal redeclaration of module <MUX2_5>.
+WARNING:HDLCompiler:687 - "E:/ISE/Project_7/MUX.v" Line 43: Illegal redeclaration of module <MUX2_32>.
+WARNING:HDLCompiler:687 - "E:/ISE/Project_7/MUX.v" Line 53: Illegal redeclaration of module <MUX4_5>.
+WARNING:HDLCompiler:687 - "E:/ISE/Project_7/MUX.v" Line 69: Illegal redeclaration of module <MUX4_32>.
+Analyzing Verilog file "E:/ISE/Project_7/M_REG.v" into library work
+WARNING:HDLCompiler:687 - "E:/ISE/Project_7/M_REG.v" Line 21: Illegal redeclaration of module <M_REG>.
+Analyzing Verilog file "E:/ISE/Project_7/Timer0.v" into library work
+WARNING:HDLCompiler:687 - "E:/ISE/Project_7/Timer0.v" Line 29: Illegal redeclaration of module <Timer0>.
+Analyzing Verilog file "E:/ISE/Project_7/Timer1.v" into library work
+WARNING:HDLCompiler:687 - "E:/ISE/Project_7/Timer1.v" Line 29: Illegal redeclaration of module <Timer1>.
+Analyzing Verilog file "E:/ISE/Project_7/W_REG.v" into library work
+WARNING:HDLCompiler:687 - "E:/ISE/Project_7/W_REG.v" Line 21: Illegal redeclaration of module <W_REG>.
+ERROR:Simulator:702 - Can not find design unit mips_txt in library work located at isim/work 
